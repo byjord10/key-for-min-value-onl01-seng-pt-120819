@@ -10,8 +10,8 @@ def key_for_min_value(name_hash)
       low_name = key
     end
   end
-  low
-end 
+  low_name
+
   # lowest_key = nil
   # highest_key = nil
   # hash.each do |v,k|
